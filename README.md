@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Imaage](https://github.com/HebutShuji/HebutShuji/pic/master/image.png?raw=true)](https://github.com/HebutShuji)
 
-<!--
-**HebutShuji/HebutShuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Yea, The above image is quite cool :P
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋
+I am Akshat Jain! I am a 17 year old student living in India! I like to code in different languages. As of now, I know Node.JS, HTML, CSS & Vanilla JavaScript. I also like to play games.
+
+
+### Contact Me
+- QQ: 306299056
+- Email: lichengxiao@aliyun.com
+
+
+### My Recent Blog Posts:
+
