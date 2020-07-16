@@ -1,4 +1,4 @@
-[![Imaage](https://github.com/HebutShuji/HebutShuji//master/image7.png?raw=true)](https://github.com/HebutShuji)
+[![Imaage](https://github.com/HebutShuji/HebutShuji//master/image7.png?raw=true)]
 
 
 Yea, The above image is quite cool :P
